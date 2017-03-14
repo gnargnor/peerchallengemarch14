@@ -1,0 +1,11 @@
+{
+  "name": "chi_day_7",
+  "version": "1.0.0",
+  "description": "Peer Challenge Day 7",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logan Kelly",
+  "license": "ISC"
+}
